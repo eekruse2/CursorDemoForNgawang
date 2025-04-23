@@ -2,6 +2,9 @@
 
 A modern, responsive personal website for Ngawang, showcasing their expertise as a lab technician.
 
+## Website Link
+Visit the website at: https://eekruse2.github.io/demoo/
+
 ## Features
 
 - Modern and clean design
