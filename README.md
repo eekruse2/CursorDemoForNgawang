@@ -1,9 +1,9 @@
 # Proof of concept for Lab mates: Ngawang's Personal Website
 
-A modern, responsive personal website for Ngawang, showcasing their expertise as a lab technician.
+A modern, responsive personal website for Ngawang, showcasing their expertise as a lab technician, soun up in 5 minutes with cursor.
 
 ## Website Link
-Visit the website at: https://eekruse2.github.io/demoo/
+Visit the website at: https://eekruse2.github.io/CursorDemoForNgawang/
 
 ## Features
 
