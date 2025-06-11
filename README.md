@@ -1,4 +1,4 @@
-# Ngawang's Personal Website
+# Proof of concept for Lab mates: Ngawang's Personal Website
 
 A modern, responsive personal website for Ngawang, showcasing their expertise as a lab technician.
 
